@@ -1,0 +1,21 @@
+
+.wrapper{
+    width:1440px;
+}
+
+
+.hat{
+background: #F3F3F3;
+height: 40px;
+
+}
+
+.left-menu{
+    display: flex;
+    text-align:left;
+    
+}
+.usa{
+    margin-top: 13px;
+
+}
